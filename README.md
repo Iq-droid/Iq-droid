@@ -7,10 +7,7 @@ My journey in tech is a blend of creativity, relentless learning, and a deep lov
 - 💻 **Full-Stack Development:**
   - **Frontend:** HTML, CSS, JavaScript, ReactJS
   - **Backend:** Python, Flask, SQL, SQLAlchemy, APIs, RESTful APIs, Authentication & Authorization, JWT
-  - **Identity & Access Management**
   - **Deployment**
-  - **Bit Manipulation**
-  - **Formik and Form Validation**
 - 🌐 **Web Technologies:**
   -**Frontend:** Javascript, ReactJS
   -**Web Development:** Web Scraping, API Integrations, TCP, HTTP, Web Sockets
@@ -21,6 +18,7 @@ My journey in tech is a blend of creativity, relentless learning, and a deep lov
   - **Data Structures:** Arrays, Linked Lists, Trees, Graphs, Stacks, Queues, Hash Tables
   - **Algorithms:** Sorting, Searching, Dynamic Programming, Graph Theory
   - **Computer Architecture and Organization**
+  - **Identity & Access Management**
   - **Operating Systems:** Processes, Memory Management, File Systems
   - **Databases:** SQL, Database Design, Transactions
 

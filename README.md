@@ -21,7 +21,7 @@ My journey in tech is a blend of creativity, relentless learning, and a deep lov
   - **Databases:** SQL, Database Design, Transactions
 
 ## 🌱 I’m currently learning ...
-I'm currently improving my backend knowledge, delving more into ReactJS animation libraries to improve on the frontend, learning more about databases, and leveraging my Python programming knowledge. I'm also focusing on individual projects to take my skills to another level.
+I'm currently improving my backend knowledge with Flask, delving more into ReactJS animation libraries to improve on the frontend, learning more about databases with SQL and SQLAlchemy, and leveraging my Python programming knowledge. I'm also focusing on individual projects to take my skills to another level.
 
 ## 💞️ I’m looking to collaborate on ...
 -Projects related to web development, web design and or any innovative tech endeavors.

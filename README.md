@@ -24,7 +24,7 @@ My journey in tech is a blend of creativity, relentless learning, and a deep lov
 I'm currently improving my backend knowledge with Flask, delving more into ReactJS animation libraries to improve on the frontend, learning more about databases with SQL and SQLAlchemy, and leveraging my Python programming knowledge. I'm also focusing on individual projects to take my skills to another level.
 
 ## 💞️ I’m looking to collaborate on ...
--Projects related to web development, web design and or any innovative tech endeavors.
+-Projects related to web development, web design and or any innovative web tech endeavors.
 Eager to contribute my diverse skill set and enthusiasm. If you have exciting ideas or opportunities, feel free to reach out! Together, we can create something extraordinary. 🚀😊
  
 ## 📫 How to reach me ...
@@ -32,4 +32,3 @@ Eager to contribute my diverse skill set and enthusiasm. If you have exciting id
 - 📱 **Mobile:** +254113513486 (Call/SMS)
 - 📱 **WhatsApp:** +254789960331
 - 📱 **WhatsApp:** +254740886754
-- 💼 **LinkedIn:** [Iqra Ali](https://www.linkedin.com/in/iqra-ali)

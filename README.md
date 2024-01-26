@@ -15,10 +15,8 @@ My journey in tech is a blend of creativity, relentless learning, and a deep lov
 - 🔍 **Computer Science Fundamentals:**
   - **Data Structures:** Arrays, Linked Lists, Trees, Graphs, Stacks, Queues, Hash Tables
   - **Algorithms:** Sorting, Searching, Dynamic Programming, Graph Theory
-  - **Computer Architecture and Organization**
   - **Identity & Access Management**
-  - **Operating Systems:** Processes, Memory Management, File Systems
-  - **Databases:** SQL, Database Design, Transactions
+  - **Databases:** SQL, Database Design
 
 ## 🌱 I’m currently learning ...
 I'm currently improving my backend knowledge with Flask, delving more into ReactJS animation libraries to improve on the frontend, learning more about databases with SQL and SQLAlchemy, and leveraging my Python programming knowledge. I'm also focusing on individual projects to take my skills to another level.
@@ -30,5 +28,3 @@ Eager to contribute my diverse skill set and enthusiasm. If you have exciting id
 ## 📫 How to reach me ...
 - 📧 **Email:** iqrabinali91@gmail.com
 - 📱 **Mobile:** +254113513486 (Call/SMS)
-- 📱 **WhatsApp:** +254789960331
-- 📱 **WhatsApp:** +254740886754
